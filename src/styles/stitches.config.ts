@@ -49,15 +49,13 @@ export const {
     }),
   },
   media: {
-    small: '(max-width: 414px)',
-    medium: '(max-width: 390px)',
-    large: '(max-width: 414px)',
-    notebookHeight: '(max-height: 768px)',
-    zoomHeight: '(max-height: 650px)',
+    small: '(max-width: 465px)',
+    medium: '(max-width: 720px)',
+    large: '(max-width: 1366px)',
   },
   theme: {
     colors: {
-      primary: '',
+      primary: '#FA3ADC',
       inputText: '#ADADAD',
       icons: '#00354F',
       text: '#494949',
